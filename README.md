@@ -21,11 +21,11 @@ I was responsible for **designing and developing the mobile application using Fl
 
 ## 📽️ Video explaining how to run the application
 
-👉 [Click here to watch the video on how to use the application](assets/videos/Recycling_robot.mp4)
+👉 [Click here to watch the video on how to use the application](https://drive.google.com/file/d/1_kpsMgH-P4MnADyaVsbxAuaQ8AQ791tX/view?usp=sharing)
 
 ---
 
-## 🚀 خطوات التشغيل
+## 🚀 How to Run the App
 
 ```bash
 git clone https://github.com/youstina-sameh1/Flutter_Recycling_robot.git
