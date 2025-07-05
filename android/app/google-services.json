@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "709945630045",
+    "project_id": "recycling-robot-1bca5",
+    "storage_bucket": "recycling-robot-1bca5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709945630045:android:f67df30a7082d712419cb4",
+        "android_client_info": {
+          "package_name": "com.example.first_app_robot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOSdU_qJNGIJX4zSop97sJQU4xEs7nRBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
